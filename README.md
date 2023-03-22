@@ -1,0 +1,2 @@
+# MemoryScanner
+一个基于C语言和Win32API的内存扫描器
